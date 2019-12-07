@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="081bb2a4-5072-4088-bc20-581abf904290" name="Default Changelist" comment="avance nuevo">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/AlumnoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/AlumnoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/CursoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/CursoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/NotaResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/NotaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="081bb2a4-5072-4088-bc20-581abf904290" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +100,16 @@
       <workItem from="1575666549363" duration="1708000" />
       <workItem from="1575668362514" duration="989000" />
       <workItem from="1575670337424" duration="916000" />
-      <workItem from="1575679786840" duration="1469000" />
+      <workItem from="1575679786840" duration="1546000" />
     </task>
+    <task id="LOCAL-00001" summary="avance nuevo">
+      <created>1575681333692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575681333692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
