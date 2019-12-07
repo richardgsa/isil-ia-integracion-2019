@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="081bb2a4-5072-4088-bc20-581abf904290" name="Default Changelist" comment="" />
+    <list default="true" id="081bb2a4-5072-4088-bc20-581abf904290" name="Default Changelist" comment="avance nuevo">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/AlumnoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/AlumnoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/CursoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/CursoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/NotaResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/java/pe/isil/isilclient/resources/NotaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno-edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/alumno.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isil-client/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/isil-client/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,12 +45,14 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UcNyB0RnqOB6QOl2xWfoZRDym1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -93,11 +109,30 @@
       <workItem from="1575662352402" duration="1671000" />
       <workItem from="1575664263152" duration="1592000" />
       <workItem from="1575666549363" duration="1708000" />
-      <workItem from="1575668362514" duration="869000" />
+      <workItem from="1575668362514" duration="989000" />
+      <workItem from="1575670337424" duration="916000" />
+      <workItem from="1575679786840" duration="1469000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="avance nuevo" />
+    <option name="LAST_COMMIT_MESSAGE" value="avance nuevo" />
   </component>
 </project>

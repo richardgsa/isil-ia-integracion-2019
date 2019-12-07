@@ -16,18 +16,19 @@ import java.util.List;
 import java.util.Optional;
 
 @Controller
-public class CursoResource {
-    /*@Autowired
+public class CursoController {
+    @Autowired
     RestTemplate restTemplate;
 
     @Bean
-    public RestTemplate restTemplate(RestTemplateBuilder builder){
+    public RestTemplate restTemplateCurso(RestTemplateBuilder builder){
         return builder.build();
     }
 
     @GetMapping("/curso")
     public String getCursoList(Model model){
-        Curso[] cursos = restTemplate.getForObject("http://localhost:8080/api/cursos",Curso[].class);
+        Curso[] cursos = restTemplate.getForObject("http://localhost:8080/api/cursos",
+                Curso[].class);
         List<Curso> cursoList = Optional.ofNullable(cursos).map(Arrays::asList).orElseGet(ArrayList::new);
         model.addAttribute("curso",cursoList);
         return "curso";
@@ -43,9 +44,9 @@ public class CursoResource {
     public String saveCurso(Curso curso, Model model){
         restTemplate.postForObject("http://localhost:8080/api/cursos", curso,Curso.class);
         Curso[] cursos=restTemplate.getForObject("http://localhost:8080/api/cursos",Curso[].class);
-        List<Curso> cursoList=Optional.ofNullable(cursos).map(Arrays::asList).orElseGet(ArrayList::new);
+        List<Curso> cursoList = Optional.ofNullable(cursos).map(Arrays::asList).orElseGet(ArrayList::new);
         model.addAttribute("curso",cursoList);
         return "curso";
-    }*/
+    }
 
 }

@@ -16,12 +16,12 @@ import java.util.List;
 import java.util.Optional;
 
 @Controller
-public class AlumnoResource {
+public class AlumnoController {
     @Autowired
     RestTemplate restTemplate;
 
     @Bean
-    public  RestTemplate restTemplate(RestTemplateBuilder builder){
+    public  RestTemplate restTemplateAlumno(RestTemplateBuilder builder){
         return builder.build();
     }
 
